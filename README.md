@@ -86,7 +86,7 @@ Each metric was scored from 1 to 5, and customers were grouped into meaningful b
 
 ---
 
-## 📊 Dashboard
+##  Dashboard
 The Power BI dashboard includes:
 - Customer count by RFM segment
 - Revenue contribution by segment
